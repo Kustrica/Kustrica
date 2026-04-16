@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://kustrica.github.io/" target="_blank">
     <img height="50" style="border-radius:14px;" src="https://img.shields.io/badge/Portfolio-coming_soon-444444?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
