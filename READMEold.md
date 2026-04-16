@@ -36,11 +36,11 @@
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" width="48" style="border-radius:12px;" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:laixdanik@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" style="border-radius:12px;" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kustrica-daniil-a48a31337/" target="_blank">
+  <a href="https://www.linkedin.com/in/kustrica" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="48" style="border-radius:12px;" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
