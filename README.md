@@ -16,8 +16,6 @@
 
 <br/>
 
-<p align="center">Contacts</p>
-
 <div align="center">
   <a href="https://t.me/kustric" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" width="48" style="border-radius:12px;" alt="Telegram" />
@@ -30,6 +28,11 @@
   <a href="https://www.linkedin.com/in/kustrica-daniil-a48a31337/" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="48" style="border-radius:12px;" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://soundcloud.com/luflexia" target="_blank">
+    <img src="./icons/soundcloud.png" width="48" style="border-radius:12px;" alt="Soundcloud" />
+  </a>
+  
 </div>
 
 <br/>
