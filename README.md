@@ -6,6 +6,8 @@
   🇧🇾 Belarusian – Native
 </p>
 
+<br/>
+
 <div align="center">
   <a href="#" target="_blank">
     <img height="50" style="border-radius:14px;" src="https://img.shields.io/badge/Portfolio-coming_soon-444444?style=for-the-badge" alt="Portfolio" />
@@ -18,31 +20,15 @@
 
 <div align="center">
   <a href="https://t.me/kustric" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg"
-         width="48"
-         height="48"
-         style="vertical-align:middle;"
-         alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" width="48" style="border-radius:12px;" alt="Telegram" />
   </a>
-
-  <img width="10" />
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="48"
-         height="48"
-         style="vertical-align:middle;"
-         alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" style="border-radius:12px;" alt="Gmail" />
   </a>
-
-  <img width="10" />
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kustrica-daniil-a48a31337/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"
-         width="48"
-         height="48"
-         style="vertical-align:middle;"
-         alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="48" style="border-radius:12px;" alt="LinkedIn" />
   </a>
 </div>
 
