@@ -45,7 +45,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://soundcloud.com/luflexia" target="_blank">
-    <img src="./icons/soundcloud.png" width="48" style="border-radius:12px;" alt="Soundcloud" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/soundcloud.svg" width="48" style="border-radius:12px;" alt="Soundcloud" />
   </a>
   
 </div>
