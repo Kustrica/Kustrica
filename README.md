@@ -1,9 +1,24 @@
 <h1 align="center">Code – Design – Music – GameDev </h1>
 
 <p align="center">
-  🇺🇸 English – B2 |
-  🇷🇺 Russian – Native |
-  🇧🇾 Belarusian – Native
+  <img src="https://cdn.7tv.app/emote/01FSZ7MYJR0000NBFRTNYTA1A9/1x.avif" width="22" style="vertical-align:middle;" />
+  English – B2
+  &nbsp; | &nbsp;
+  <img src="https://cdn.7tv.app/emote/01GBDNFDPR0001RAQMJBWFVAN3/1x.avif" width="22" style="vertical-align:middle;" />
+  Russian – Native
+  &nbsp; | &nbsp;
+  <img src="https://cdn.7tv.app/emote/01GSJAN8VG000E5C0S8C5RTPRQ/1x.avif" width="22" style="vertical-align:middle;" />
+  Belarusian – Native
+</p>
+
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/01GX6M9TRR000DJJ63WGMEA4Z8/1x.avif" width="22" style="vertical-align:middle;" />
+  Software developer building desktop applications, web tools, backend services and indie games with Unreal Engine
+</p>
+
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/01F6MCX6RR0000WDA7ERT4J465/1x.avif" width="22" style="vertical-align:middle;" />
+  Currently working on a desktop video processing tool using React, FastAPI and Electron
 </p>
 
 <br/>
@@ -37,7 +52,11 @@
 
 <br/>
 
-<p align="center">Software Stack</p>
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/01H0QYAXBR0007779TR98GHY7D/1x.avif" width="22" style="vertical-align:middle;" />
+  Software Stack
+  <img src="https://cdn.7tv.app/emote/01H0QYAXBR0007779TR98GHY7D/1x.avif" width="22" style="vertical-align:middle;" />
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo" />
@@ -67,7 +86,11 @@
 
 <br/>
 
-<p align="center">Core Languages</p>
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/01GQFT1WF80002Q9KS8SKQMHHY/1x.avif" width="22" style="vertical-align:middle;" />
+  Core Languages
+  <img src="https://cdn.7tv.app/emote/01GQFT1WF80002Q9KS8SKQMHHY/1x.avif" width="22" style="vertical-align:middle;" />
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
@@ -97,7 +120,11 @@
 
 <br/>
 
-<p align="center">Frameworks – Technologies</p>
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/01HSPH80X00005YGAS2SZWDJ88/1x.avif" width="22" style="vertical-align:middle;" />
+  Frameworks – Technologies
+  <img src="https://cdn.7tv.app/emote/01HSPH80X00005YGAS2SZWDJ88/1x.avif" width="22" style="vertical-align:middle;" />
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -132,21 +159,19 @@
 </div>
 
 <br/>
-
 <div align="center">
+  <img src="https://cdn.7tv.app/emote/01J244ERJG000A78Z503AX8PTC/4x.avif" width="40" style="vertical-align:middle;" />
   <a href="https://ko-fi.com/kustrica" target="_blank">
     <img height="50" style="border:0px;height:64px;" src="./icons/kofi-321-258.png" alt="Ko-fi" />
   </a>
-
   <img width="8" />
-
   <a href="https://www.patreon.com/c/Kustrica" target="_blank">
     <img height="50" style="border:0px;height:64px;border-radius:16px;" src="./icons/patreon-128-140.png" alt="Patreon" />
   </a>
-
   <img width="8" />
-
   <a href="https://boosty.to/kustrica" target="_blank">
     <img height="50" style="border:0px;height:64px;border-radius:16px;" src="./icons/boosty-128-154.png" alt="Boosty" />
   </a>
+  <img src="https://cdn.7tv.app/emote/01J244ERJG000A78Z503AX8PTC/4x.avif" width="40" style="vertical-align:middle;" />
 </div>
+
