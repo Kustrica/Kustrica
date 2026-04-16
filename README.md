@@ -1,6 +1,10 @@
-<h1 align="center">Code • Design • Music • GameDev</h1>
+<h1 align="center">Code – Design – Music – GameDev </h1>
 
-<p align="center">Portfolio – Coming soon</p>
+<p align="center">
+  🇺🇸 English – B2 |
+  🇷🇺 Russian – Native |
+  🇧🇾 Belarusian – Native
+</p>
 
 <div align="center">
   <a href="#" target="_blank">
@@ -8,8 +12,41 @@
   </a>
 </div>
 
+<br/>
 
-###
+<p align="center">Contacts</p>
+
+<div align="center">
+  <a href="https://t.me/kustric" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"
+         alt="telegram logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"
+         alt="gmail logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.linkedin.com/in/kustrica-daniil-a48a31337/" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"
+         alt="linkedin logo" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">Software Stack</p>
 
@@ -39,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
-###
+<br/>
 
 <p align="center">Core Languages</p>
 
@@ -69,9 +106,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
 </div>
 
-###
+<br/>
 
-<p align="center">Frameworks • Technologies</p>
+<p align="center">Frameworks – Technologies</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -99,10 +136,10 @@
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBzMW9ocHZlamV3YWZicHU0NmM1d2U5YzJxdDFraW95NGo5aW1rcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9413uBuyBIBi3PWekt/giphy.gif" />
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBzMW9ocHZlamV3YWZicHU0NmM1d2U5YzJxdDFraW95NGo5aW1rcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9413uBuyBIBi3PWekt/giphy.gif" />
 </div>
 
 <br/>
