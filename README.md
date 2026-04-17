@@ -21,6 +21,10 @@
   Currently working on a desktop video processing tool using React, FastAPI and Electron
 </p>
 
+<p align="center">
+  Commissions are open
+</p>
+
 <br/>
 
 <div align="center">
